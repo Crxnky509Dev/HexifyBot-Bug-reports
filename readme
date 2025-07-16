@@ -1,5 +1,50 @@
-You can use this to  and add issues to this so we can  review bugs and impoment fixes  
+# 🛠️ Hexify Bug Tracker & Feature Suggestions
 
-< Links: Website: https://hexifybot.xyz 
-< Bug report page: https://www.hexifybot.xyz/bug-report.html
-< API Page: https://hexifybot.xyz/api.html
+Welcome to the official issue tracker for **Hexify**, the all-in-one Discord bot that brings moderation, utility, fun, and security to your server!
+
+Here you can:
+- 🐞 Report bugs and errors
+- 💡 Suggest new features or improvements
+- 🗣️ Ask questions or give feedback
+- ✅ Track progress and changelogs
+
+---
+
+## 📌 About Hexify
+
+Hexify is a powerful multi-purpose Discord bot designed to make server management easy while delivering fun features for communities. It includes:
+- 🔐 Security systems (Anti-nuke, Anti-raid, Panic Mode, etc.)
+- 🎮 Games & fun commands
+- ⚙️ Utility tools
+- 🎵 Music & entertainment
+- 🚨 Logging, auto moderation, and more!
+
+---
+
+## 🧾 How to Report a Bug
+
+1. Go to the [Issues tab](https://github.com/Crxnky509Dev/HexifyBot-Bug-reports/issues).
+2. Click **"New Issue"**.
+3. Choose **Bug Report**.
+4. Fill out the template with clear details (steps to reproduce, expected behavior, actual behavior, screenshots/logs if possible).
+
+> 📝 Be as detailed as possible so we can fix it faster!
+
+---
+
+## 💡 How to Suggest a Feature
+
+1. Click **"New Issue"** in the [Issues tab](https://github.com/Crxnky509Dev/HexifyBot-Bug-reports/issues).
+2. Choose **Feature Request**.
+3. Describe the idea, how it could benefit users, and any examples.
+
+---
+
+## 📂 Repository Structure
+
+This repository is used only for:
+- Submitting and tracking **issues**
+- Gathering **community feedback**
+- Publishing **changelogs** for Hexify
+
+The bot’s source code is private and not available he
